@@ -1,0 +1,99 @@
+*{
+    padding: 0;
+}
+
+#cont{
+    background-color: rgb(53, 53, 53) !important; 
+}
+
+#divcont{
+    height: auto;
+    width: auto;
+    background-color: rgb(71, 71, 71);
+    padding: 0;
+}
+
+#header{
+    background-image: url(../../../img/baner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    width: 100%;
+}
+
+#logo{
+    width: 100px;
+    float: left;
+    padding: 0;
+}
+
+#titulo{
+    margin-left: -100px;
+    font-size: 60px;
+    color: white;
+}
+
+#img{
+    float: left;
+}
+
+#btn{
+    height: 50px;
+}
+
+#btn2{
+    height: 50px;
+    float: right;
+}
+
+#btnm{
+    margin-right: 10px;
+}
+
+#btnm2{
+    margin-left: 10px;
+}
+
+#linkbtn{
+    text-decoration: none;
+    color: white;
+}
+
+#buscador{
+    filter: drop-shadow(#ffc107);
+}
+
+#cardservi{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: rgb(49, 49, 49);
+}
+
+#divbus{
+    width: 400px;
+    height: 35px;
+    margin-bottom: 15px;
+    float: left;
+}
+#precio{
+    float: left;
+}
+#btnedit{
+    float: right;
+}
+#divbus2{
+    width: 400px;
+    height: 35px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#card{
+    color: white;
+    margin-top: 10px;
+    margin-left: 20px;
+    display: inline-block;
+    box-shadow: 20px, 20px, 20px, 20px;
+}
+

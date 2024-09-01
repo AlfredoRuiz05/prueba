@@ -1,0 +1,70 @@
+#divcont2{
+    height: 1000px;
+    width: auto;
+    padding: 0;
+}
+
+#cargaPadmin{
+    width: 450px;
+    height: 500px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px #ffc107;
+    border-radius: 10px;
+    padding-top: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#divprecio{
+    width: 200px;
+}
+
+#nameProd{
+    margin-bottom: 10px;
+}
+
+#selectmedia{
+    width: 300px;
+}
+
+#parttxt,#partimp{
+    color: white;
+    background-color: #333;
+}
+
+#parttxtex{
+    color: white;
+}
+
+#btncargaProd{
+    margin-top: 60px;
+}
+
+#listPadmin{
+    width: auto;
+    height: auto;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px #ffc107;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#contProd{
+    width: auto;
+    height: auto;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px #ffc107;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
